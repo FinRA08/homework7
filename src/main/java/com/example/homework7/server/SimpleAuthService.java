@@ -2,7 +2,7 @@ package com.example.homework7.server;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//
 public class SimpleAuthService implements AuthService {
 
     private List<UserData> users;
