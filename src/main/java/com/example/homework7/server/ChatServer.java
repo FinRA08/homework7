@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ChatServer {
+public class ChatServer {//
 
     private final AuthService authService;//сервис аутаиндификации
     private final List<ClientHandler> clients;//поле содержит перечень клиентов
